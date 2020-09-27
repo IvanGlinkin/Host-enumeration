@@ -2,7 +2,7 @@
 
 Have you ever faced with the lack of possibility of using NMap? For instance if you have reverse shell as an unprivileged user and there are no useful tools preinstalled?
 
-This is a small script which will help you to scan a network if you have nothing.
+This is a small script which will help you to scan a network for live hosts and top 24 ports if you have nothing.
 
 Usage example:
 --------------
