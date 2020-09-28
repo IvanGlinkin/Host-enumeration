@@ -3,7 +3,7 @@
 # A script to enumerate all host insite the local subnet 
 # Author: Ivan Glinkin
 # Contact: mail@ivanglinkin.com
-# Release date: ***, 2020
+# Release date: September 28, 2020
 
 # Variables
 ## General
