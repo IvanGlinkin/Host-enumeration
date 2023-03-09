@@ -23,10 +23,10 @@ An original article:
 
 Video example:
 --------------
-![](https://www.ivanglinkin.com/wp-content/uploads/2020/09/host_enum.gif)
+![](https://github.com/IvanGlinkin/media_support/blob/main/host_enumeration_Video.gif?raw=true)
 
 
 Screenshots:
 ------------
-![](https://www.ivanglinkin.com/wp-content/uploads/2020/09/host-enum-2-subnets.png)
-![](https://www.ivanglinkin.com/wp-content/uploads/2020/09/host-enum-none.png)
+![](https://github.com/IvanGlinkin/media_support/blob/main/host-enumeration-image-1.png?raw=true)
+![](https://github.com/IvanGlinkin/media_support/blob/main/host-enumeration-image-2.png?raw=true)
